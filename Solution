@@ -1,1 +1,1 @@
-# MSC_Nastran_Solving_Error80
+Sol. Found both displacement & stress values 0, Evaluated the DECK FILE found the load card is not used. Check and use the LOAD card and run the analysis. 
